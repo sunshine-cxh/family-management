@@ -1,0 +1,23 @@
+{
+  "id": "2137955",
+  "name": "蓝天计划",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1112925",
+      "name": "jianfei-01",
+      "font_class": "jianfei01",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "9935218",
+      "name": "戒烟",
+      "font_class": "jieyan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
